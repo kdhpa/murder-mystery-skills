@@ -1,0 +1,242 @@
+[
+  {
+    "source_group": "political",
+    "source_relative": "GM 없는 버전 메모.md",
+    "file": "skills/murder-mystery-running/references/political/GM 없는 버전 메모.md",
+    "sha256": "7b3d903d51b1928aad5101fe2af27e1a571927bcbe459e990e6a2e442675725e"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "대충 내가 볼려고 카드 정리.md",
+    "file": "skills/murder-mystery-running/references/political/대충 내가 볼려고 카드 정리.md",
+    "sha256": "0bfaf7528eb7f6539436155aecc23ccf15bbd75bdb77844132c93d3d568ad438"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/00_동선과_목격정보_배치.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/00_동선과_목격정보_배치.md",
+    "sha256": "42f0e4ba8565d5803225cfcfe1e81b47cd220cad8b3891f06c17e29c4b484f71"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/01_신자유.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/01_신자유.md",
+    "sha256": "b874eef068897d28a2f55b42a5638af055bc0f3bd1c54de02e611af13d9f2ffa"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/02_정민주.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/02_정민주.md",
+    "sha256": "58e8c4c7c9033a088e096d033a193627673c82c153771eb093a1bb2f3418ae0f"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/03_나국힌.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/03_나국힌.md",
+    "sha256": "5d8a7dc0d9239fab5dedd21d2aa787ccde7d8d49220dd47850cc69006e94418b"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/04_정의준.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/04_정의준.md",
+    "sha256": "575268772c66bec9483fd61ef2a45b09f364c6bbdad737d958713673ea3a4b7b"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/05_나경호_이루민.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/05_나경호_이루민.md",
+    "sha256": "d2a51fe7db66c7f0ec6880ee57ef50efda1bc959ccfdf0f1874342aa5255c49b"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/06-2_여당원_각성후.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/06-2_여당원_각성후.md",
+    "sha256": "103bac112a6f5a07f5f0bf48a2307a34ab2bc039c840e5b5a883a624d37b8149"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/06_여당원_각성전.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/06_여당원_각성전.md",
+    "sha256": "37dcade84153c8131cf38ee52f11bca7b2f3137ca1a63d9c1a6ded7b913aef92"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 룰북/07_고원직.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 룰북/07_고원직.md",
+    "sha256": "0a595dbca38cb0d51e805ec1725a1a0aa147b27a856590241e59d4b56988fb64"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "비밀 카드/00_비밀 카드 구조.md",
+    "file": "skills/murder-mystery-running/references/political/비밀 카드/00_비밀 카드 구조.md",
+    "sha256": "a6fa3c98a8c3b07c7ccad17df7fa78f06605b4f282bc79048aac8ff8ab8a6886"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "새로운 룰.md",
+    "file": "skills/murder-mystery-running/references/political/새로운 룰.md",
+    "sha256": "d1ca577ab41c1102648098e0532d6bffa8a162173771b738da7b9ea09bcf4d0f"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "스토리라인.md",
+    "file": "skills/murder-mystery-running/references/political/스토리라인.md",
+    "sha256": "53bc3bf5b6bff7b1fadeb8c3b069925bced1785832ddd954dfab536c4e423079"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "장소 카드/01_여당_캠프.md",
+    "file": "skills/murder-mystery-running/references/political/장소 카드/01_여당_캠프.md",
+    "sha256": "b2dbd74ad9cd8331990f7ac3078def936e2a00355eb9293e9de9a776993930f5"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "장소 카드/02_야당_캠프.md",
+    "file": "skills/murder-mystery-running/references/political/장소 카드/02_야당_캠프.md",
+    "sha256": "39612fd1bfab670fad1552f98a2a0e559bee33169c769916bfb03a4d6251e3f5"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "장소 카드/03_개혁당_캠프.md",
+    "file": "skills/murder-mystery-running/references/political/장소 카드/03_개혁당_캠프.md",
+    "sha256": "6d14d507419e702f1992e8406be5dd49b3c7949cd7d72a32decb23934bf398ba"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "장소 카드/04_사건_현장.md",
+    "file": "skills/murder-mystery-running/references/political/장소 카드/04_사건_현장.md",
+    "sha256": "57ed9bf30da2b2cdf2dc44b4ec9fa69a79bae3ca49be6bb87cbe039cad8682c1"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "장소 카드/05_경호실.md",
+    "file": "skills/murder-mystery-running/references/political/장소 카드/05_경호실.md",
+    "sha256": "bea53aa2766a447fd60efbfba78ffd91918bc790fc5c4b1daf99a531300ed48f"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "제작/진행 보조/신자유_기사_판정표.md",
+    "file": "skills/murder-mystery-running/references/political/제작/진행 보조/신자유_기사_판정표.md",
+    "sha256": "fec28ae14ff226fa002f5525be52a5072fe7c89cc92ac8b3eb6b9a210cf1e30b"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "카드 지정 현황.md",
+    "file": "skills/murder-mystery-running/references/political/카드 지정 현황.md",
+    "sha256": "ac745a2db692bb00d30c46ae2e1408e65b177208b20055da9430a4a4fc28e067"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "캐릭터.md",
+    "file": "skills/murder-mystery-running/references/political/캐릭터.md",
+    "sha256": "cb6a3fd999777aef75a3977b3724a1df9a6b51c3f8a22b95787bdcd70f8ee500"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "타임라인.md",
+    "file": "skills/murder-mystery-running/references/political/타임라인.md",
+    "sha256": "51e9fee32a19dfea64840599a38e2f3585f9248c63c1a888e6c0367b6355b8f7"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "통합 기획안.md",
+    "file": "skills/murder-mystery-running/references/political/통합 기획안.md",
+    "sha256": "c828b566362278af91084391d8b171ac0d757201fd7887a055648242c9a94827"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/00_전체_구조와_장소배치.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/00_전체_구조와_장소배치.md",
+    "sha256": "e3d2873885482868980eeea7a7df05050720eb8af26ec14070e366a02261cc7e"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/01_신자유.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/01_신자유.md",
+    "sha256": "5be803eca91c4a96ed490eb7cb7909a2d8fd28704c01e3b734cac325f6fb9685"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/02_정민주.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/02_정민주.md",
+    "sha256": "9c368e29d065464aa987a07b112aea7bed583d7f48093b392f9d2c59018f3fda"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/03_나국힌.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/03_나국힌.md",
+    "sha256": "a8731e2e08e7c66466f2e00ad1edb2e2a39d0fb2873e4701f68b8ec0382bfd17"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/04_정의준.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/04_정의준.md",
+    "sha256": "1c36e480eb7f0db766a96520bf0f6efd450b3bffdbbc4e30b8a42f26a9957117"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/05_나경호_이루민.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/05_나경호_이루민.md",
+    "sha256": "3af2b1868d21a72b7d4ce2e2a4eaa82e248e4f4e53a4b924096d3cdc4b9ba072"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/06_여당원.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/06_여당원.md",
+    "sha256": "8668bbc7ac8a1b7236559ff12527d6e5458f32836d3c58b2565284729e21ef86"
+  },
+  {
+    "source_group": "political",
+    "source_relative": "파생 카드/07_고원직.md",
+    "file": "skills/murder-mystery-running/references/political/파생 카드/07_고원직.md",
+    "sha256": "d7d3099cd67bae007884686e7545f041dce20294d14bb7cd09f2262352168644"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "PDF_구성_아웃라인.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/PDF_구성_아웃라인.md",
+    "sha256": "67202075fc0d0a5fcb3748715de9a38b1e33d0024b8a28434b450c11356e7c4c"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "게임_규칙.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/게임_규칙.md",
+    "sha256": "b100b669dc1bb53978917c27fbf5de8aaffd9bfbd623cf2e6b3b70167a94fa78"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "기획_정리.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/기획_정리.md",
+    "sha256": "6139c50baf0267c4a02c6f70cb7c524655cfdfdf043eba695161186c492e34af"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "리워크_타임라인_관계도_우승조건.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/리워크_타임라인_관계도_우승조건.md",
+    "sha256": "8068b04084e0f07f4b809c2989df35ce05fcf0fe311c4eb254045140224d4b53"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "마스터_타임라인.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/마스터_타임라인.md",
+    "sha256": "5cf948046ffb14418d7d1bcc327fc24e607c79b707ed3ebbe6808c2b209722c8"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "인물별_비공개_시트.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/인물별_비공개_시트.md",
+    "sha256": "a8cd3ac2b6941b2975a02e658261abdacfd31668bf13d5bae0bcda9c0cafc26f"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "카드_설계.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/카드_설계.md",
+    "sha256": "01c2ebcf66c1622749c7e80b596ef707e1133431877265b95d0f343413e36344"
+  },
+  {
+    "source_group": "hailmedi",
+    "source_relative": "프롤로그.md",
+    "file": "skills/murder-mystery-running/references/hailmedi/프롤로그.md",
+    "sha256": "0038631080cc3be8fa649422f5ad8c3b1f31a7c4c26cf10482a05e0e6a58709f"
+  }
+]
